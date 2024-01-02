@@ -2,8 +2,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/9234036f-505a-47a3-a33f-37bdb8f43432.svg)](https://wakatime.com/@9234036f-505a-47a3-a33f-37bdb8f43432)
 
-I'm currently working at [Onex](https://www.medicalonex.com) as a Technology Manager.
-
 ### 👨‍💻️ My tech stack
 
 [<img src="https://raw.githubusercontent.com/miladd3/miladd3/main/assets/css.svg" width="20px"  alt="CSS"/>](https://github.com/miladd3)
